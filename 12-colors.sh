@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo -e "\e[31m Hello world \e[0m"
+echo -e "\e[33m hello sai \e[0m"
 
-echo "hello no colors"
+echo "no colours"
