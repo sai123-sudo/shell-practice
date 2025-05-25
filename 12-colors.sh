@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo -e "\e[33m hello sai \e[0m"
+echo -e "\e[35m em jarigina parledhu chooskundham \e[0m"
 
-echo "no colours"
+echo "ane vaadu yeppudu antune vuntadu"
