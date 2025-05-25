@@ -3,5 +3,5 @@
 for i in {1..100}
 
 do
-  echo $i
-done  
+  echo -e "\e[33m $i \e[0"
+done
